@@ -1,0 +1,3 @@
+# Normalize EOL for all files that Git considers text files: LF everywhere, also when this
+# repository is a submodule checked out on Windows (the hook and the .gd files need LF).
+* text=auto eol=lf
